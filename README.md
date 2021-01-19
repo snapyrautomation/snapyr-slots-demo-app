@@ -1,0 +1,1 @@
+# snapyr-slots-demo-app
